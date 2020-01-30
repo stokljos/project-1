@@ -34,7 +34,7 @@ Introduction:
 •	Cell 10 plots the graph of all the dives where depth is on the x axis and speed of sound is on the y axis
 •	Cell 11 plots the average speed of sound of all the dives against depth.
 •	Cell 12 prints out the max value of each dive.
-
+![alt text](https://github.com/stokljos/project-1/blob/master/Peircing%20Mooring%20Graphs.JPG)
 Analysis:
 1.	Compare the number of dives per day of the shallow profiler vs deep profiler
 
