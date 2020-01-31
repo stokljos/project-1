@@ -1,7 +1,7 @@
 # Project-1
 Introduction:
 
-	The purpose of this project is to understand what is CTD, how they take data and how they convert data.
+  The purpose of this project is to understand what is CTD, how they take data and how they convert data.
   CTD stands for Conductivity, Temperature, and Density. It’s a package of electronic instruments that
   dive deep or shallow into the ocean and It directly measures conductivity, temperature, and pressure.
   Based off that data it can calculate salinity, density, depth, and speed of sound.
